@@ -1,0 +1,7 @@
+{
+  "id": "your-engage-id@example.com",
+  "pass": "your-engage-password",
+  "min_age": 25,
+  "max_age": 35,
+  "prefectures": ["東京都", "神奈川県", "千葉県", "埼玉県"]
+}

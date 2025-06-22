@@ -1,0 +1,20 @@
+{
+  "name": "EngageScoutLambda",
+  "version": "1.0.0",
+  "description": "Lambda function for Engage scout automation using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "deploy": "./deploy.sh",
+    "package": "./package_function.sh"
+  },
+  "dependencies": {
+    "puppeteer-core": "^21.5.0"
+  },
+  "devDependencies": {
+    "@sparticuz/chromium": "^119.0.0",
+    "puppeteer": "^21.5.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

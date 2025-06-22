@@ -1,0 +1,5 @@
+{
+  "id": "your-engage-id@example.com",
+  "pass": "your-engage-password",
+  "prefectures": ["大阪府", "京都府", "兵庫県"]
+}

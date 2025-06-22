@@ -1,0 +1,46 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+build/
+*.zip
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# AWS
+.aws-sam/
+samconfig.toml
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Security - Never commit credentials
+*.pem
+*.key
+credentials.json
+secrets.json
